@@ -9,4 +9,4 @@
 
 ![](./header.png)
 
-Code of Article: https://blog.chyroc.cn/docs/posts/golang-simple-json-parse/
+Code of Article: https://blog.chyroc.cn/posts/golang-simple-json-parse/
